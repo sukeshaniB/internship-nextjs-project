@@ -22,7 +22,7 @@ function MyApp({ Component, pageProps }: AppProps) {
       
       {/* <ThemeProvider> */}
       <Home/>
-      <Group isDarkMode={isDarkMode} />
+      <Group  />
     </Fragment>
   );
 }
